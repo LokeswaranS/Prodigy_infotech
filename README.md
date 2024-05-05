@@ -1,1 +1,1 @@
-This are all the project I undertook while working under prodigy infotech as a software developer.
+These are all the projects I undertook while working at Prodigy Infotech as a software developer.
